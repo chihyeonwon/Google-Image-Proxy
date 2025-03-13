@@ -73,4 +73,4 @@ Gmail을 비롯한 Google 서비스에서 이메일에 포함된 이미지를 �
 Google Image Proxy는 사용자의 **보안과 개인정보 보호를 강화하는 중요한 기술**이며, 특히 **Gmail 사용자의 이메일 보안성을 크게 향상**시킵니다.  
 다만, **일부 이메일 추적 기능 제한 및 이미지 캐싱 문제** 등과 같은 한계를 고려하여 활용 방안을 수립하는 것이 중요합니다.  
 
-**작성자 IGLOO Corporation Won Chi Hyun **작성일 2025.03.14
+*작성자 IGLOO Corporation Won Chi Hyun *작성일 2025.03.14
